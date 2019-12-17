@@ -18,7 +18,7 @@ I am Yutong Xie (谢雨桐), a senior undergraduate student majoring in **Comput
 
 Currently I am a visiting student at the University of Michigan, working with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/).
 
-I am planning to apply for Ph.D. programs in Computer Science that start in Fall 2020, and here is my [curriculum vitae](https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/YutongXie.pdf).
+I am planning to apply for Ph.D. programs in Computer Science that start in Fall 2020, and here is my [vitae](https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/YutongXie.pdf).
 
 ----------------------------
 
