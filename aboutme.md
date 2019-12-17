@@ -32,7 +32,7 @@ I am planning to apply for Ph.D. programs in Computer Science that start in Fall
 
 # Research Interests
 
-My reserch interests lie in machine learning methods for both explicitly and implicitly structured data, e.g. graph representation learning, natural language understanding; and I’m also attracted by general machine learning problems, e.g. multi-task learning, transfer learning.
+My research interests lie in machine learning methods for both explicitly and implicitly structured data, especially for graph representation learning and natural language understanding. Besides, I’m also interested in general machine learning problems such as multi-task learning and transfer learning.
 
 
 # Research Experience
