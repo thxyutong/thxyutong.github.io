@@ -12,7 +12,7 @@ published: true
 
 ----------------------------
 
-<img align="left" src="/img/photo.png" height="245" width="175" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
+<img align="left" src="/img/photo.png" height="210" width="150" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
 
 I am Yutong Xie (谢雨桐), a senior student majoring in **Computer Science** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
