@@ -22,7 +22,7 @@ I am planning to apply for Ph.D. programs in Computer Science that start in Fall
 
 ----------------------------
 
-\\
+\
 
 # Education
 
