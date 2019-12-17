@@ -12,9 +12,9 @@ published: true
 
 ----------------------------
 
-<img align="left" src="/img/photo.png" height="210" width="150" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
+<img align="left" src="/img/photo.png" height="280" width="200" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
 
-I am Yutong Xie (谢雨桐), a senior student majoring in **Computer Science** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
+I am Yutong Xie (谢雨桐), a senior student majoring in **Computer Science** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and a member of **[ACM Honors Class](https://acm.sjtu.edu.cn/home)**, which is an elite CS program at SJTU for top 5% talented students.
 
 Currently I am a visiting student at the University of Michigan, working with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/).
 
