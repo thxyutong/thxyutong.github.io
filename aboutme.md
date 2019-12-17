@@ -22,6 +22,8 @@ I am planning to apply for Ph.D. programs in Computer Science that start in Fall
 
 ----------------------------
 
+\\
+
 # Education
 
 [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020 (expected)*
