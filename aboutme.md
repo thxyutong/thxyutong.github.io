@@ -14,7 +14,7 @@ published: true
 
 <img align="left" src="/img/photo.png" height="252" width="180" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
 
-I am Yutong Xie (谢雨桐), a senior undergraduate student majoring in **Computer Science** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
+I am Yutong Xie (谢雨桐), a senior student majoring in **Computer Science** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
 Currently I am a visiting student at the University of Michigan, working with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/).
 
