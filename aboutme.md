@@ -12,52 +12,49 @@ published: true
 
 ----------------------------
 
-<img align="left" src="/img/photo.png" height="280" width="200" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
+<img align="left" src="/img/photo.jpg" height="240" width="180" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
 
-I am Yutong Xie（谢雨桐）, a senior student majoring in Computer Science at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and a member of [ACM Honors Class](https://acm.sjtu.edu.cn/home), which is an elite CS program at SJTU for top 5% talented students.
+I am Yutong Xie (谢雨桐), a first year Ph.D. student at the [School of Information, University of Michigan](https://www.si.umich.edu), advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) in the [Foreseer Group](http://foreseer.si.umich.edu/). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) as a member of [ACM Class](https://acm.sjtu.edu.cn/home) advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
 
-Currently I am a visiting student at the [School of Information, University of Michigan](https://www.si.umich.edu/), working with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/).
-
-I am planning to apply for Ph.D. programs in Computer Science that start in Fall 2020, and here is my [vitae](https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/YutongXie.pdf).
+My research interests lie in machine learning methods for both explicitly and implicitly structured data, especially for graphs, networks and texts. 
 
 ----------------------------
 
 # Education
 
-[**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020 (expected)*
+[**University of Michigan**](https://umich.edu), *Sep. 2020 - Present*
 
-- B.Sc. in Computer Science, with major GPA 92/100 (third year GPA 94/100).
-- Member of [ACM Honors Class](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
-- Member of [Zhiyuan Honors Program](https://zhiyuan.sjtu.edu.cn/), a pilot program for training outstanding students in the basic sciences.
+- Ph.D. student at the [School of Information](https://www.si.umich.edu).
+- Advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) in the [Foreseer Group](http://foreseer.si.umich.edu/).
 
-# Research Interests
+[**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020*
 
-My research interests lie in machine learning methods for both explicitly and implicitly structured data, especially for **graph representation learning** and **natural language understanding**. Besides, I’m also interested in general machine learning problems such as **multi-task learning** and **transfer learning**.
-
+- B.Sc. in Computer Science (Zhiyuan Honors Degree)
+- Member of [ACM Honors Class](https://acm.sjtu.edu.cn/), [Zhiyuan Honors Program](https://zhiyuan.sjtu.edu.cn/).
+- Advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
 
 # Research Experience
 
-[**Foreseer Group**](http://foreseer.si.umich.edu/), iSchool, University of Michigan, *Jun. 2019 -- Present*
+[**ByteDance AI Lab**](https://ailab.bytedance.com), *Feb. 2020 -- Sep. 2020*
+
+- Research Intern advised by [Dr. Lei Li](https://lileicc.github.io) and [Dr. Hao Zhou](https://zhouh.github.io).
+- Research topic: computer aided drug discovery.
+
+[**Foreseer Group**](http://foreseer.si.umich.edu/), iSchool, University of Michigan, *Jun. 2019 -- Dec. 2019*
 
 - Research intern advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/).
-- Researching on graph representation learning and multi-task learning.
+- Research topics: graph representation learning and multi-task learning.
 
 [**Apex Data & Knowledge Management Lab**](http://apex.sjtu.edu.cn), SJTU, *Jun. 2018 -- Present*
 
 - Research intern advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), and [Prof. Weinan Zhang](http://wnzhang.net/)
-- Researching on code comprehension and  natural language processing.
+- Research topics: code comprehension and  natural language processing.
 
 # Publications and Manuscripts
-
-Code Comprehension Graph for Algorithm Detection from Source Code (Preprint)\\
-**Y. Xie**\*, T. Long\*, X. Chen, H. Zhao, W. Zhang, Q. Cao, Y. Yu
 
 Visual Rhythm Prediction with Feature-Aligned Network \[[PDF](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\] \\
 **Y. Xie**, H. Wang, Y. Hao, Z. Xu\\
 Proceedings of [the 16th IAPR International Conference on Machine Vision Applications Conference (MVA 2019)](http://www.mva-org.jp/Proceedings/2019/).
-
-QA4IE+: A Real-Time Document Level Information Extraction System (Preprint)\\
-L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu
 
 
 # Teaching Experience
@@ -68,10 +65,11 @@ L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu
 
 # Hornors & Awards
 
-- [Leo KoGuan Scholarship](http://www.leokoguanfoundation.org/) (Top 0.2% in SJTU), *2018, 2019*
-- Huawei Scholarship (Top 0.2% in SJTU), *2017*
-- Academic Excellence Scholarshi (B) (Top 1.5% in SJTU), *2017, 2018*
-- Zhiyuan Honorary Scholarship  (Top 5% in SJTU), *2016--2018*
+- Shanghai Jiao Tong University Outstanding Graduate, *2020*
+- [Leo KoGuan Scholarship](http://www.leokoguanfoundation.org/) (20 winners at SJTU), *2019*
+- [Leo KoGuan Scholarship](http://www.leokoguanfoundation.org/) (20 winners at Zhiyuan College), *2018*
+- Huawei Scholarship (6 winners at Zhiyuan College), *2017*
+- Zhiyuan Honorary Scholarship, *2016-2018*
 - Second Prize, [ACM-ICPC 2016, Nha Trang](https://icpc.baylor.edu/regionals/finder/nha-trang-2016), *Dec. 2016*
 - Bronze Medal and Best Female Team, [ACM-ICPC 2016, Beijing](http://acm.pku.edu.cn/icpc_pku2016/), *Nov. 2016*
 - Silver Medal and Best Female Team, [CCPC](http://ccpc.io/) 2016, Hefei, *Oct. 2016*
