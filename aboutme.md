@@ -73,7 +73,7 @@ Proceedings of [the 16th IAPR International Conference on Machine Vision Applica
 
 # Hornors & Awards
 
-- Shanghai Jiao Tong University Outstanding Graduate, *2020*
+- Outstanding Graduate of Shanghai Jiao Tong University, *2020*
 - [Leo KoGuan Scholarship](http://www.leokoguanfoundation.org/) (20 winners at SJTU), *2019*
 - [Leo KoGuan Scholarship](http://www.leokoguanfoundation.org/) (20 winners at Zhiyuan College), *2018*
 - Huawei Scholarship (6 winners at Zhiyuan College), *2017*
