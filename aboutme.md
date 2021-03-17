@@ -49,7 +49,7 @@ My research interests lie in machine learning methods for both explicitly and im
 # Publications
 
 **MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**\\
-**Yutong Xie**, [Chence Shi](https://chenceshi.com/), [Hao Zhou](https://zhouh.github.io/), Yuwei Yang, [Weinan Zhang](http://wnzhang.net), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Lei Li](https://lileicc.github.io/). International Conference on Learning Representations (ICLR), 2021 (<span style="color:red">with spotlight presentation</span>). [[PDF](https://openreview.net/pdf?id=kHSu4ebxFXY)\], [[code](https://github.com/yutxie/MARS)\]
+**Yutong Xie**, [Chence Shi](https://chenceshi.com/), [Hao Zhou](https://zhouh.github.io/), Yuwei Yang, [Weinan Zhang](http://wnzhang.net), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Lei Li](https://lileicc.github.io/). International Conference on Learning Representations (ICLR), 2021 (<span style="color:red">with spotlight presentation</span>). [[pdf](https://openreview.net/pdf?id=kHSu4ebxFXY)\] [[code](https://github.com/yutxie/MARS)\]
 
 **Visual Rhythm Prediction with Feature-Aligned Network**\\
-**Yutong Xie**, Haiyang Wang, Yan Hao, Zihao Xu. IAPR International Conference on Machine Vision Applications Conference (MVA), 2019. [[PDF](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\]
+**Yutong Xie**, Haiyang Wang, Yan Hao, Zihao Xu. IAPR International Conference on Machine Vision Applications Conference (MVA), 2019. [[pdf](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\]
