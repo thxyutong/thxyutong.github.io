@@ -12,7 +12,7 @@ published: true
 
 ----------------------------
 
-<img align="left" src="/img/photo.jpg" height="280" width="210" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
+<img align="left" src="/img/photo.jpg" height="260" width="195" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
 
 I am Yutong Xie (谢雨桐), a first year Ph.D. student at the [School of Information, University of Michigan](https://www.si.umich.edu), advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) in the [Foreseer Group](http://foreseer.si.umich.edu/). Prior to this, I received my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) as a member of [ACM Class](https://acm.sjtu.edu.cn/home) advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
 
